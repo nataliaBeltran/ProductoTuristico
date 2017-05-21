@@ -1,0 +1,39 @@
+footer{
+    margin-top: 150px;
+    color: #BDBDBD;
+    font-size: 13px;
+    
+} 
+
+header{    
+   
+    margin: 5px 5px 5px 5px;
+    padding: 20px 20px 20px 20px;
+}
+
+.botones{
+     padding:30px 50px 30px 50px;
+}
+.botones img{
+    border-radius: 50%    
+}
+
+.botones spam{
+   color:red;   
+   border:1px;   
+   border-color:red; 
+   border-style:solid;
+   margin-top:25px;
+   font-weight: bold;
+  
+}
+.botones spam:hover{
+  color:white;
+  background-color: red; 
+ font-weight: bold;
+  }
+  
+  .carousel img{
+height: 400;
+width: 1200;
+  }
