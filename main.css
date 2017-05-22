@@ -37,3 +37,24 @@ header{
 height: 400;
 width: 1200;
   }
+ 
+article{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 18px;
+    font-family: "homersimpsons",cursive;
+    text-align: justify;
+      }
+article h1{
+    color: #2FC0DD;
+}
+      body{
+          font-family: "homersimpsons",cursive;
+      }
+article h3{
+    color: #15D442;
+}
+article h4{
+    color: #A126F2;
+}
