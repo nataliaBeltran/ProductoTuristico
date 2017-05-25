@@ -43,16 +43,31 @@ article{
     margin: 0 auto;
     padding: 20px;
     font-size: 18px;
-    font-family: "homersimpsons",cursive;
+    font-family: "Tahoma","Geneva",sans-serif;
     text-align: justify;
+    
       }
 article h1{
     color: #2FC0DD;
 }
       body{
-          font-family: "homersimpsons",cursive;
+          font-family: "Tahoma","Geneva",sans-serif;
+          
       }
 article h3{
     color: #15D442;
 }
 
+.servicios img{
+    float:left;
+     border-radius: 50%   
+    
+}
+.servicios img
+{
+    margin-right:19px;
+}
+.servicios h3
+{
+    text-align: center;
+}
